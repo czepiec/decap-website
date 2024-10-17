@@ -3,8 +3,7 @@ group: Add
 weight: 5
 title: 4. Access Your Content
 ---
-
-Your site CMS is now fully configured and ready for login!
+Your site CMS is now fully configured and ready for login!.
 
 If you set your registration preference to "Invite only," invite yourself (and anyone else you choose) as a site user. To do this, select the **Identity** tab from your site dashboard, and then select the **Invite users** button. Invited users receive an email invitation with a confirmation link. Clicking the link will take you to your site with a login prompt.
 
@@ -14,8 +13,8 @@ If you left your site registration open, or for return visits after confirming a
 
 This means:
 
-- Content fetched in the admin UI matches the content in the repository, which may be different from your locally running site.
-- Content saved using the admin UI saves directly to the hosted repository, even if you're running the UI locally or in staging.
+* Content fetched in the admin UI matches the content in the repository, which may be different from your locally running site.
+* Content saved using the admin UI saves directly to the hosted repository, even if you're running the UI locally or in staging.
 
 <nav class="pagination-nav">
    <a href="/docs/configure-decap-cms/" class="button">
